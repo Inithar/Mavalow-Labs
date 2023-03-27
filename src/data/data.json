@@ -1,0 +1,118 @@
+{
+  "navigationLinks": [
+    {
+      "id": "services",
+      "text": "Services"
+    },
+    {
+      "id": "industries",
+      "text": "Industries"
+    },
+    {
+      "id": "who-we-are",
+      "text": "Who We Are"
+    },
+    {
+      "id": "contact-us",
+      "text": "Contact Us"
+    }
+  ],
+  "marketingServices": [
+    {
+      "icon": "./assets/icons/social-content.svg",
+      "heading": "Social Content & Management",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eveniet laboriosam eum numquam corrupti."
+    },
+    {
+      "icon": "./assets/icons/advertising.svg",
+      "heading": "Digital Advertising",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto earum ex explicabo magnam. Nostrum, suscipit?"
+    },
+    {
+      "icon": "./assets/icons/email-marketing.svg",
+      "heading": "Email Marketing",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed error molestiae animi? Consequuntur, quidem hic."
+    },
+    {
+      "icon": "./assets/icons/project-creation.svg",
+      "heading": "Project Creation & Launch",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum maxime labore, ducimus officiis pariatur in!"
+    }
+  ],
+  "projectStage": [
+    { "icon": "./assets/icons/whitepaper.svg", "title": "Whitepaper, concept, and art design" },
+    { "icon": "./assets/icons/contract.svg", "title": "Smart Contract Development" },
+    { "icon": "./assets/icons/pr.svg", "title": "PR & Promotion" },
+    { "icon": "./assets/icons/project-marketing.svg", "title": "Project Marketing" },
+    { "icon": "./assets/icons/community-management.svg", "title": "Community Management" },
+    { "icon": "./assets/icons/filing-whitelist.svg", "title": "Filling the Whitelist" },
+    { "icon": "./assets/icons/launch-day.svg", "title": "Release & Launch Day" },
+    { "icon": "./assets/icons/post-launch.svg", "title": "Post-Launch Maintenance of Price & Volume" }
+  ],
+  "yourProjectSteps": [
+    {
+      "image": "./assets/about-your-project.png",
+      "number": "01",
+      "heading": "Tell us about your project",
+      "description": "We begin with you  where you will tell us about your project. The stage you are in your development, your vision for the future and the challenges you are facing today."
+    },
+    {
+      "image": "./assets/initial-meeting.png",
+      "number": "02",
+      "heading": "Initial Meeting",
+      "description": "We arrange an initial meeting where we will answer all your questions and where you can share your views. Based on the meeting results we will  decide to collaborate or not."
+    },
+    {
+      "image": "./assets/custom-solution.png",
+      "number": "03",
+      "heading": "Custom Solution",
+      "description": "After the meeting our team will get together and develop a custom solution based on your requirements. If you are happy then we will be ready to go and implement the plan."
+    }
+  ],
+  "industries": [
+    { "icon": "./assets/icons/finance.svg", "title": "Finance" },
+    { "icon": "./assets/icons/fintech.svg", "title": "Fintech" },
+    { "icon": "./assets/icons/investments.svg", "title": "Investments" },
+    { "icon": "./assets/icons/marketing.svg", "title": "Marketing" },
+    { "icon": "./assets/icons/cryptocurrency.svg", "title": "Cryptocurrency" },
+    { "icon": "./assets/icons/ntfs.svg", "title": "NTFs" },
+    { "icon": "./assets/icons/blockchain.svg", "title": "Blockchain" },
+    { "icon": "./assets/icons/metaverse.svg", "title": "Metaverse" }
+  ],
+  "contactOptions": [
+    {
+      "icon": "./assets/icons/discuss.svg",
+      "text": "Discuss your business and objectives."
+    },
+    {
+      "icon": "./assets/icons/establish.svg",
+      "text": "Establish tailored strategies that propel you towards your goals."
+    },
+    {
+      "icon": "./assets/icons/outline-expectations.svg",
+      "text": "Outline expectations, deliverables, and budgets."
+    }
+  ],
+  "footerData": {
+    "sections": {
+      "services": ["Social content & management", "Digital advertising", "Email marketing", "Project creation & launch"],
+      "home": ["Industries", "How It Works", "Who We Are"],
+      "help": ["Terms of Use", "Privacy Policy"]
+    },
+    "contacts": {
+      "location": {
+        "icon": "./assets/icons/location.svg",
+        "text": "Piazza Napoleone, Lucca, Tuscany"
+      },
+      "email": {
+        "icon": "./assets/icons/email.svg",
+        "text": "italiainlimo@gmail.com"
+      }
+    },
+    "socialMedia": {
+      "twitter": "./assets/icons/twitter.svg",
+      "linkedin": "./assets/icons/linkedin.svg",
+      "instagram": "./assets/icons/instagram.svg"
+    }
+  }
+}
