@@ -23,7 +23,7 @@ _MAVALOW LABS_ is a simple, modern landing page based on NFT themes.
 
 ## Screenshots
 
-![download](https://user-images.githubusercontent.com/72702964/234562268-6077290a-dba5-47fb-96a1-db51418e6070.png)
+![23126584_202](https://user-images.githubusercontent.com/72702964/234567871-0c7150d1-aafd-4efa-93b1-b34dff95afef.png)
 
 ## Contact
 
